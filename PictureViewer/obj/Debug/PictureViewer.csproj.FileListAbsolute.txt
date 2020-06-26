@@ -1,0 +1,10 @@
+C:\Users\Troy\Documents\Coding\C#\Udemy\PictureViewer\bin\Debug\PictureViewer.exe.config
+C:\Users\Troy\Documents\Coding\C#\Udemy\PictureViewer\bin\Debug\PictureViewer.exe
+C:\Users\Troy\Documents\Coding\C#\Udemy\PictureViewer\bin\Debug\PictureViewer.pdb
+C:\Users\Troy\Documents\Coding\C#\Udemy\PictureViewer\obj\Debug\PictureViewer.csprojAssemblyReference.cache
+C:\Users\Troy\Documents\Coding\C#\Udemy\PictureViewer\obj\Debug\PictureViewer.Form1.resources
+C:\Users\Troy\Documents\Coding\C#\Udemy\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+C:\Users\Troy\Documents\Coding\C#\Udemy\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.cache
+C:\Users\Troy\Documents\Coding\C#\Udemy\PictureViewer\obj\Debug\PictureViewer.csproj.CoreCompileInputs.cache
+C:\Users\Troy\Documents\Coding\C#\Udemy\PictureViewer\obj\Debug\PictureViewer.exe
+C:\Users\Troy\Documents\Coding\C#\Udemy\PictureViewer\obj\Debug\PictureViewer.pdb
